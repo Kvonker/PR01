@@ -23,7 +23,6 @@ namespace PR01_01
     {
       Person p = new Person("Tony", "Allen", 32);
       Console.WriteLine(p);
-
     }
   }
 
