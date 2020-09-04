@@ -8,6 +8,7 @@ namespace PR01_01
     public string firstName;
     public string lastName;
     public int age;
+    public enum Genders : int { Male, Female };
 
     public Person(string _firstName, string _lastName, int _age)
     {
